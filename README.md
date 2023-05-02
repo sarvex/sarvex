@@ -9,6 +9,11 @@ I have some works with reverse engineering, contact me if you have same interest
 <img align="center" src="/languages.svg" alt="general" width="50%">
 </p>
 
+<figure><embed src="https://wakatime.com/share/@sarvex/6b74d90c-b4c8-49a1-8e62-fff454c346ac.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@sarvex/6b74d90c-b4c8-49a1-8e62-fff454c346ac.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@sarvex/6b74d90c-b4c8-49a1-8e62-fff454c346ac.svg"></embed></figure>
+
+
 ## 🔭 Learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
