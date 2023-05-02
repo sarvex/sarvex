@@ -5,16 +5,11 @@ Hi guys, I'm **Sarvex Jatasra** . I am an vetran 10x programmer since 1991.
 I have some works with reverse engineering, contact me if you have same interesting or some questions!
 
 <p align=center>
-<img align="center" src="/achievements.svg" alt="achievements" width="50%"><img align="center" src="/isocalendar.svg" alt="general" width="50%">
-<img align="center" src="/languages.svg" alt="general" width="50%"
-</p>
-  <p align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=sarvex&theme=algolia&column=4">
-  </p>
-    <p align=center>
-    <img src="[https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg](https://wakatime.com/share/@sarvex/f2e52941-50c5-42f3-9a69-6333f8131ca1.svg)" height="400" width="600">
-  </p>
-  
+<img align="center" src="/achievements.svg" alt="achievements" width="50%"><img align="center" src="/isocalendar.svg" alt="general" width="80%">
+<img align="center" src="/languages.svg" alt="general" width="80%">
+<img src="https://github-profile-trophy.vercel.app/?username=sarvex&theme=algolia&column=4" width="80%">
+<img src=https://wakatime.com/share/@sarvex/f2e52941-50c5-42f3-9a69-6333f8131ca1.svg width="80%">
+</p>  
 
 
 ## 🔭 Learning
