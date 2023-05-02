@@ -13,33 +13,13 @@ I have some works with reverse engineering, contact me if you have same interest
 ## My Github Stats 
 - - - -
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvex&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvex&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sarvex&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
-  
-## Github Trophies
-> #### Expand to see my Github trophies 
-<details>
-  <summary> 
-    Github Trophies
-  </summary>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=sarvex&theme=algolia&column=4">
   </p>
-</details>
-
-## Wakatime Stats
-> #### Expand to see details of my daily coding activities from my Code Editor
-<details>
-  <summary> 
-    WakaTime Dashboard
-  </summary>
-  <p>
-    <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="400" width="600">
+    <p>
+    <img src="[https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg](https://wakatime.com/share/@sarvex/f2e52941-50c5-42f3-9a69-6333f8131ca1.svg)" height="400" width="600">
   </p>
-</details>
+  
 
 
 ## 🔭 Learning
