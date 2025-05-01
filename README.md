@@ -7,7 +7,6 @@ I have some works with reverse engineering, contact me if you have same interest
 <img align="center" src="/languages.svg" alt="general"height="100%" width="100%"><br><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=sarvex&theme=algolia&column=4" height="100%" width="100%"><br><br>
 <img align="center" src=https://wakatime.com/share/@sarvex/f2e52941-50c5-42f3-9a69-6333f8131ca1.svg height="100%"width="100%"><br><br>
-<img align="center" src="/achievements.svg" alt="achievements" height="100%" width="100%"><br><br>
 <img align="center" src="/languages.svg" alt="general"height="100%" width="100%"><br><br>
 </p>  
 
