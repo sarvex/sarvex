@@ -13,4 +13,5 @@ I have some works with reverse engineering, contact me if you have same interest
 ## 📫 Reach Me
 
 - Twitter: https://twitter.com/sarvex
+- Linkedin: https://www.linkedin.com/in/sarvex
 - Email: [sarvex.jatasra@gmail.com](mailto:sarvex.jatasra@gmail.com)
